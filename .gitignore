@@ -1,5 +1,32 @@
+.DS_Store
+.hg
+.svn
+.gradle
+.cache
+.metadata
+.settings
+# .classpath
+# .project
+
+# some general extensions
+*~*
+# *~
+*.bak
 *.class
+/*.db
 *.log
+*.iws
+/*.ser
+*.tmp
+/*.zip
+
+# some general folders
+/_old/
+/out/
+/private/
+/target/
+/target-eclipse/
+/temp/
 
 # sbt specific
 dist/*
@@ -11,3 +38,4 @@ project/plugins/project/
 
 # Scala-IDE specific
 .scala_dependencies
+
