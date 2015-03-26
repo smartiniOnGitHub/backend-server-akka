@@ -14,7 +14,8 @@ Dependencies
 ============
 
 * Java SE 7 SDK (JDK)
-* Akka 2.1.x and related dependencies (Scala-2.10.x, etc)
+* Akka 2.2.x and related dependencies
+* Scala-2.11.x
 
 
 Installation
