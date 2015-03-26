@@ -1,1 +1,1 @@
-// SBT Build file for pluginsaddSbtPlugin("com.typesafe.akka" % "akka-sbt-plugin" % "2.1.0")
+// SBT Build file for plugins
